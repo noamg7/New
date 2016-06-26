@@ -1,0 +1,12 @@
+body{
+  background: rgb(5, 108, 110);
+  background: -moz-linear-gradient(30deg, rgb(5, 108, 110) 26%, rgb(0, 136, 108) 73%);
+  background: -webkit-linear-gradient(30deg, rgb(5, 108, 110) 26%, rgb(0, 136, 108) 73%);
+  background: -o-linear-gradient(30deg, rgb(5, 108, 110) 26%, rgb(0, 136, 108) 73%);
+  background: -ms-linear-gradient(30deg, rgb(5, 108, 110) 26%, rgb(0, 136, 108) 73%);
+  background: linear-gradient(120deg, rgb(5, 108, 110) 26%, rgb(0, 136, 108) 73%);
+  overflow-x: hidden;
+}
+h1{
+
+}
