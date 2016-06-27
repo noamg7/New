@@ -1,12 +1,56 @@
 body{
-  background: rgb(5, 108, 110);
-  background: -moz-linear-gradient(30deg, rgb(5, 108, 110) 26%, rgb(0, 136, 108) 73%);
-  background: -webkit-linear-gradient(30deg, rgb(5, 108, 110) 26%, rgb(0, 136, 108) 73%);
-  background: -o-linear-gradient(30deg, rgb(5, 108, 110) 26%, rgb(0, 136, 108) 73%);
-  background: -ms-linear-gradient(30deg, rgb(5, 108, 110) 26%, rgb(0, 136, 108) 73%);
-  background: linear-gradient(120deg, rgb(5, 108, 110) 26%, rgb(0, 136, 108) 73%);
+  background: rgb(5, 14, 99);
+  background: -moz-linear-gradient(30deg, rgb(5, 14, 99) 30%, rgb(9, 18, 51) 70%);
+  background: -webkit-linear-gradient(30deg, rgb(5, 14, 99) 30%, rgb(9, 18, 51) 70%);
+  background: -o-linear-gradient(30deg, rgb(5, 14, 99) 30%, rgb(9, 18, 51) 70%);
+  background: -ms-linear-gradient(30deg, rgb(5, 14, 99) 30%, rgb(9, 18, 51) 70%);
+  background: linear-gradient(120deg, rgb(5, 14, 99) 30%, rgb(9, 18, 51) 70%);
   overflow-x: hidden;
 }
+
+@font-face {
+  font-family: Karate;
+  src: url('fonts/Karate.ttf');
+}
+
 h1{
-  font-style: karate medium; 
+  font-family: Karate;
+  color: #ff6600;
+  text-shadow: 4px 4px 2px rgba(0, 7, 255, 1);
+  font-size: 100px;
+}
+
+ul{
+  list-style: none;
+}
+
+ul#shippuden{
+  width: 100%;
+}
+
+img{
+  width: 750px;
+  height: 400px;
+  -webkit-border-radius: 90px;
+  -moz-border-radius: 90px;
+  border-radius: 90px;
+}
+
+button#naruto{
+  color: rgb(255, 225, 133);
+  font-size: 20px;
+  padding: 20px;
+  text-shadow: 0px -1px 0px rgba(255, 255, 255, 0.8);
+  -webkit-border-radius: 90px;
+  -moz-border-radius: 90px;
+  border-radius: 90px;
+  background: rgb(0, 110, 255);
+  background: -moz-linear-gradient(90deg, rgb(0, 110, 255) 0%, rgb(0, 181, 255) 70%);
+  background: -webkit-linear-gradient(90deg, rgb(0, 110, 255) 0%, rgb(0, 181, 255) 70%);
+  background: -o-linear-gradient(90deg, rgb(0, 110, 255) 0%, rgb(0, 181, 255) 70%);
+  background: -ms-linear-gradient(90deg, rgb(0, 110, 255) 0%, rgb(0, 181, 255) 70%);
+  background: linear-gradient(0deg, rgb(0, 110, 255) 0%, rgb(0, 181, 255) 70%);
+  -webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+  -moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+  box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
 }
