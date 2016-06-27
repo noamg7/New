@@ -1,0 +1,34 @@
+body{
+  font-family: Bonzai;
+  overflow-x: hidden;
+  background-color: #000000;
+  color:#f2f2f2;
+}
+
+@font-face {
+  font-family: Bonzai;
+  src: url('fonts/Bonzai.ttf');
+}
+
+img#uzumaki{
+  height: 339px;
+  width: 100%;
+}
+
+img{
+  height: 300px;
+  width: 350px;
+}
+
+h1{
+  font-family: Bonzai;
+  font-size: 100px;
+  font-style: bold;
+}
+ul{
+  list-style: none;
+}
+
+h2{
+  font-style: bold;
+}
