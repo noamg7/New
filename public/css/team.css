@@ -1,5 +1,6 @@
 body{
   font-family: Ninja Naruto;
+  overflow-x: hidden;
 }
 @font-face {
   font-family: Ninja Naruto;
