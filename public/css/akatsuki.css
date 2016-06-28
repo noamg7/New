@@ -12,3 +12,13 @@ body{
 @font-face {
   font-family: Chow Fun;
   src: url('Chow Fun.ttf');
+}
+
+img#Akatsuki{
+  height: 351px;
+  width: 100%;
+}
+
+h1{
+  font-size: 100px;
+}
