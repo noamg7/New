@@ -5,14 +5,19 @@ body{
   background: -o-linear-gradient(30deg, rgb(225, 255, 255) 30%, rgb(181, 255, 255) 70%);
   background: -ms-linear-gradient(30deg, rgb(225, 255, 255) 30%, rgb(181, 255, 255) 70%);
   background: linear-gradient(120deg, rgb(225, 255, 255) 30%, rgb(181, 255, 255) 70%);
+  font-family: Last Ninja;
   overflow-x: hidden;
-  font-family: LastNinja;
+
   color: #0066ff;
 }
 
 @font-face {
-  font-family: LastNinja;
-  src: url('fonts/LastNinja.ttf');
+  font-family: Last Ninja;
+  src: url('fonts/Last Ninja.ttf');
+}
+
+h1{
+
 }
 
 img#seven{
