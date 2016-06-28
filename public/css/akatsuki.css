@@ -15,10 +15,19 @@ body{
 }
 
 img#Akatsuki{
-  height: 351px;
+  height: 350px;
   width: 100%;
+}
+
+img{
+  height: 300px;
+  width: 400px;
 }
 
 h1{
   font-size: 100px;
+}
+
+ul{
+  list-style: none;
 }

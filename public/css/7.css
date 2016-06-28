@@ -7,7 +7,6 @@ body{
   background: linear-gradient(120deg, rgb(225, 255, 255) 30%, rgb(181, 255, 255) 70%);
   font-family: Last Ninja;
   overflow-x: hidden;
-
   color: #0066ff;
 }
 
@@ -21,7 +20,7 @@ h1{
 }
 
 img#seven{
-  height: 351px;
+  height: 350px;
   width: 100%;
 }
 

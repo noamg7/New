@@ -1,0 +1,25 @@
+body{
+  font-family: Ninja Naruto;
+}
+@font-face {
+  font-family: Ninja Naruto;
+  src: url('fonts/Ninja Naruto.ttf');
+}
+
+img#TeamKonoha{
+  height: 350px;
+  width: 100%;
+}
+
+h1{
+  font-size: 100px;
+}
+
+ul{
+  list-style: none;
+}
+
+img{
+  width: 450px;
+  height: 350px;
+}

@@ -51,6 +51,11 @@ img#akatsuki{
   width: 350px;
 }
 
+img#team{
+  height: 400px;
+  width: 350px;
+}
+
 h2{
   color: #ff9900;
   text-shadow: 4px 4px 2px rgba(0, 0, 0, 1);
