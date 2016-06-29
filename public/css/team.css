@@ -1,6 +1,7 @@
 body{
   font-family: Ninja Naruto;
   overflow-x: hidden;
+  background-color: #ffcc00;
 }
 @font-face {
   font-family: Ninja Naruto;
@@ -14,6 +15,7 @@ img#TeamKonoha{
 
 h1{
   font-size: 100px;
+  text-shadow: 4px 4px 2px rgba(0, 7, 255, 1);
 }
 
 ul{
