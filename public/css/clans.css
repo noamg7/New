@@ -1,0 +1,34 @@
+body{
+  font-family: Samurai;
+  overflow-x: hidden;
+  color:#fff;
+  text-shadow:#fff 0 0 10px;
+  background-color:#232323;
+}
+
+a:hover{
+  text-decoration: none;
+}
+
+div#Senju{
+  background-image: url(http://vignette1.wikia.nocookie.net/naruto/images/7/7f/Senju_Clan.png/revision/latest?cb=20150211140045);
+}
+
+@font-face {
+  font-family: Samurai;
+  src: url('fonts/Samurai.ttf');
+}
+
+ul{
+  list-style: none;
+}
+
+img{
+  height: 350px;
+  width: 400px;
+}
+
+#Uzumaki{
+  width: 700px;
+  height: 400px;
+}
