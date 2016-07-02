@@ -29,31 +29,39 @@ ul#shippuden{
 }
 
 img{
-  width: 750px;
-  height: 400px;
+  width: 400px;
+  height: 350px;
   -webkit-border-radius: 90px;
   -moz-border-radius: 90px;
   border-radius: 90px;
 }
 
-img#Uzumaki{
-  height: 400px;
-  width: 350px;
+div#naruto{
+  background-image: url(http://www.leafninja.com/images/symbols/Naruto.gif);
+  -webkit-border-radius: 90px;
+  -moz-border-radius: 90px;
+  border-radius: 90px;
 }
 
-img#swordsmen{
-  height: 400px;
-  width: 350px;
+div#Konoha{
+  background-image: url(http://rs271.pbsrc.com/albums/jj151/chuck-kie/Naruto%20related%20stuff/Leaf-symbol.gif~c200);
+  -webkit-border-radius: 90px;
+  -moz-border-radius: 90px;
+  border-radius: 90px;
 }
 
-img#akatsuki{
-  height: 400px;
-  width: 350px;
+div#seven{
+  background-image: url(http://narutomushrivalry.wdfiles.com/local--files/02characters%3Acharacter-profiles/800px-Land_of_Water.JPG);
+  -webkit-border-radius: 90px;
+  -moz-border-radius: 90px;
+  border-radius: 90px;
 }
 
-img#team{
-  height: 400px;
-  width: 350px;
+div#Akatsuki{
+  background-image: url(http://wordnarutoonline.weebly.com/uploads/8/5/5/6/8556513/1659928.png);
+  -webkit-border-radius: 90px;
+  -moz-border-radius: 90px;
+  border-radius: 90px;
 }
 
 h2{
